@@ -1,0 +1,3 @@
+name = Search by arguments
+description = "Allow you ability to find nodes by keyword in url"
+core = 7.x
